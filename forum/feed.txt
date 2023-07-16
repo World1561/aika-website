@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br">
+<link rel="self" type="application/atom+xml" href="https://aika.ongame.net/forum/feed.php" />
+
+<title>Aika Online</title>
+<subtitle>MMORPG</subtitle>
+<link href="https://aika.ongame.net/forum/index.php" />
+<updated>2023-07-13T13:47:12-03:00</updated>
+
+<author><name><![CDATA[Aika Online]]></name></author>
+<id>https://aika.ongame.net/forum/feed.php</id>
+<entry>
+<author><name><![CDATA[realmadris]]></name></author>
+<updated>2023-07-13T13:47:12-03:00</updated>
+<published>2023-07-13T13:47:12-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34256&amp;p=95635#p95635</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34256&amp;p=95635#p95635"/>
+<title type="html"><![CDATA[Discussão Geral • Erro jogo parou de funcionar]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34256&amp;p=95635#p95635"><![CDATA[
+Olá boa tarde, estava upando em asteria agora atarde quando meu jogo parou de funcionar e apareceu a mensagem &quot; Erro: programa suspeito detectado o vírus ou trojan são as possíveis causas para o erro &quot; , e depois tive que reiniciar o notebook, então queria saber se devo me preocupar com isso pois não uso programas de nada nem nunca usei e também não usos antivírus no meu not, e se volta a acontecer esse erro que nunca tinha acontecido comigo como devo proceder?   obrigado pela atenção. <img class="smilies" src="https://aika.ongame.net/forum/images/smilies/icon_e_smile.gif" alt=":)" title="Smiley" /><p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=67706">realmadris</a> — 13 Jul 2023, 13:47</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[ManoDeus]]></name></author>
+<updated>2023-07-11T21:57:55-03:00</updated>
+<published>2023-07-11T21:57:55-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34254&amp;p=95632#p95632</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34254&amp;p=95632#p95632"/>
+<title type="html"><![CDATA[Discussão Geral • Cristais de aumento de habilidade de ataque armadura e sorte armadura]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34254&amp;p=95632#p95632"><![CDATA[
+eu olhei nos drops de dungeons que tem em um post do aika aqui dos drops de dg atualizados, mas não tem em nenhum local, alguém saberia dizer onde posso dropar esses 2 cristais? Cristal de aumento de habilidade de ataque(ARMADURA) E Cristal de sorte (ARMADURA), estou procurando igual louco :/<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=15003">ManoDeus</a> — 11 Jul 2023, 21:57</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[glennnewman]]></name></author>
+<updated>2023-07-11T07:52:19-03:00</updated>
+<published>2023-07-11T07:52:19-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34215&amp;p=95631#p95631</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34215&amp;p=95631#p95631"/>
+<title type="html"><![CDATA[Discussão Geral • Re: Nao consigo loga no jogo alguem mi ajuda]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34215&amp;p=95631#p95631"><![CDATA[
+Esta é uma informação útil<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=69698">glennnewman</a> — 11 Jul 2023, 07:52</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[MrProtoman]]></name></author>
+<updated>2023-06-20T17:14:48-03:00</updated>
+<published>2023-06-20T17:14:48-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34253&amp;p=95630#p95630</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34253&amp;p=95630#p95630"/>
+<title type="html"><![CDATA[S.O.S. • Re: Não consigo abrir o jogo]]></title>
+
+<category term="S.O.S." scheme="https://aika.ongame.net/forum/viewforum.php?f=15" label="S.O.S."/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34253&amp;p=95630#p95630"><![CDATA[
+<blockquote><div><cite>c3pqn escreveu:</cite><br />Jogo abre em modo janela, o mouse não clica exatamente em cima das teclas..(sempre um pouco abaixo) Por isso não consigo criar personagem e entrar no jogo para tirar do modo janela, gostaria de informações <img class="smilies" src="https://aika.ongame.net/forum/images/smilies/icon_exclaim.gif" alt=":!:" title="Exclamation" />  <img class="smilies" src="https://aika.ongame.net/forum/images/smilies/icon_idea.gif" alt=":idea:" title="Idea" /><br /></div></blockquote><br /><br />Fala meu jovem, beleza?<br /><br />Então, isso ocorre devido a uma incompatibildiade na resolução do seu jogo, para poder como resolver é só <a href="https://aika.ongame.net/forum/viewtopic.php?f=15&amp;t=37" class="postlink"><span style="color: #00BF00"><strong>clicar aqui.</strong></span></a><br /><br />Qualquer outra duvida ou sugestão é só entrar em contato com a gente.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=52200">MrProtoman</a> — 20 Jun 2023, 17:14</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[c3pqn]]></name></author>
+<updated>2023-06-20T13:25:33-03:00</updated>
+<published>2023-06-20T13:25:33-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34253&amp;p=95629#p95629</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34253&amp;p=95629#p95629"/>
+<title type="html"><![CDATA[S.O.S. • Não consigo abrir o jogo]]></title>
+
+<category term="S.O.S." scheme="https://aika.ongame.net/forum/viewforum.php?f=15" label="S.O.S."/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34253&amp;p=95629#p95629"><![CDATA[
+Jogo abre em modo janela, o mouse não clica exatamente em cima das teclas..(sempre um pouco abaixo) Por isso não consigo criar personagem e entrar no jogo para tirar do modo janela, gostaria de informações <img class="smilies" src="https://aika.ongame.net/forum/images/smilies/icon_exclaim.gif" alt=":!:" title="Exclamation" />  <img class="smilies" src="https://aika.ongame.net/forum/images/smilies/icon_idea.gif" alt=":idea:" title="Idea" /><p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=69644">c3pqn</a> — 20 Jun 2023, 13:25</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[MrProtoman]]></name></author>
+<updated>2023-06-16T01:10:25-03:00</updated>
+<published>2023-06-16T01:10:25-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=33373&amp;p=95628#p95628</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=33373&amp;p=95628#p95628"/>
+<title type="html"><![CDATA[Discussão Geral • Re: Meu brilho ofusca o seu]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=33373&amp;p=95628#p95628"><![CDATA[
+<blockquote><div><cite>padraode30k escreveu:</cite><br />Refine:15<br />Cor: Roxo Azulado<br /></div></blockquote><br /><br />Fala meu jovem, beleza?<br /><br />Então, o tópico se encontra me &quot;hiato&quot;, sem nenhuma previsão de reativação.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=52200">MrProtoman</a> — 16 Jun 2023, 01:10</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[padraode30k]]></name></author>
+<updated>2023-06-15T20:03:53-03:00</updated>
+<published>2023-06-15T20:03:53-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=33373&amp;p=95627#p95627</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=33373&amp;p=95627#p95627"/>
+<title type="html"><![CDATA[Discussão Geral • Re: Meu brilho ofusca o seu]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=33373&amp;p=95627#p95627"><![CDATA[
+Refine:15<br />Cor: Roxo Azulado<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=69632">padraode30k</a> — 15 Jun 2023, 20:03</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[xign]]></name></author>
+<updated>2023-06-12T11:53:01-03:00</updated>
+<published>2023-06-12T11:53:01-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34252&amp;p=95626#p95626</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34252&amp;p=95626#p95626"/>
+<title type="html"><![CDATA[Itens/Equipamentos • Re: Dúvida receita set 99]]></title>
+
+<category term="Itens/Equipamentos" scheme="https://aika.ongame.net/forum/viewforum.php?f=7" label="Itens/Equipamentos"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34252&amp;p=95626#p95626"><![CDATA[
+<blockquote><div><cite>shizum9970 escreveu:</cite><br />Voltei a jogar recentemente e gostaria de saber quais as dgs onde posso dropar as receitas do set raro 99.<br /></div></blockquote><br /><br /><br />Dropa no modo infernal de Ariela e Estrada Espiral<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=64006">xign</a> — 12 Jun 2023, 11:53</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[shizum9970]]></name></author>
+<updated>2023-06-11T23:51:37-03:00</updated>
+<published>2023-06-11T23:51:37-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34252&amp;p=95625#p95625</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34252&amp;p=95625#p95625"/>
+<title type="html"><![CDATA[Itens/Equipamentos • Dúvida receita set 99]]></title>
+
+<category term="Itens/Equipamentos" scheme="https://aika.ongame.net/forum/viewforum.php?f=7" label="Itens/Equipamentos"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34252&amp;p=95625#p95625"><![CDATA[
+Voltei a jogar recentemente e gostaria de saber quais as dgs onde posso dropar as receitas do set raro 99.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=68802">shizum9970</a> — 11 Jun 2023, 23:51</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[JahnKrauss]]></name></author>
+<updated>2023-06-10T04:42:43-03:00</updated>
+<published>2023-06-10T04:42:43-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34251&amp;p=95624#p95624</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34251&amp;p=95624#p95624"/>
+<title type="html"><![CDATA[Screenshots e Vídeos • PRECISO DE ASSETS]]></title>
+
+<category term="Screenshots e Vídeos" scheme="https://aika.ongame.net/forum/viewforum.php?f=18" label="Screenshots e Vídeos"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34251&amp;p=95624#p95624"><![CDATA[
+Fala, pessoas!<br />Gostaria de uma colaboração, quem puder me enviar uma print em alta resolução do painel de personagem, sem nenhum item equipado e se possível no nivel 1(opcional).<br /><br />Quero desenvolver um pequeno projeto e gostaria de utilizar essa imagem como base.<br /><br />Muito obrigado!<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=29020">JahnKrauss</a> — 10 Jun 2023, 04:42</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[MrProtoman]]></name></author>
+<updated>2023-06-09T10:57:16-03:00</updated>
+<published>2023-06-09T10:57:16-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34250&amp;p=95623#p95623</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34250&amp;p=95623#p95623"/>
+<title type="html"><![CDATA[Discussão Geral • Re: Connect Error]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34250&amp;p=95623#p95623"><![CDATA[
+<blockquote><div><cite>nating escreveu:</cite><br />hello MOD,<br /><br />Can someone help me with my problem on the client it says connect error. Or sometimes try again soon.<br /></div></blockquote><br /><br />Hello, how are you?<br /><br />Our servers are exclusively located in Brazil, so in order to play while living outside of Brazil, you will need to use a VPN. Without it, your login will be blocked.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=52200">MrProtoman</a> — 09 Jun 2023, 10:57</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[nating]]></name></author>
+<updated>2023-06-08T20:12:03-03:00</updated>
+<published>2023-06-08T20:12:03-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=34250&amp;p=95622#p95622</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=34250&amp;p=95622#p95622"/>
+<title type="html"><![CDATA[Discussão Geral • Connect Error]]></title>
+
+<category term="Discussão Geral" scheme="https://aika.ongame.net/forum/viewforum.php?f=4" label="Discussão Geral"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=34250&amp;p=95622#p95622"><![CDATA[
+hello MOD,<br /><br />Can someone help me with my problem on the client it says connect error. Or sometimes try again soon.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=69535">nating</a> — 08 Jun 2023, 20:12</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[MrProtoman]]></name></author>
+<updated>2023-06-07T10:28:00-03:00</updated>
+<published>2023-06-07T10:28:00-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=17764&amp;p=95621#p95621</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=17764&amp;p=95621#p95621"/>
+<title type="html"><![CDATA[Perguntas e Respostas • Re: Qual a melhor classe?]]></title>
+
+<category term="Perguntas e Respostas" scheme="https://aika.ongame.net/forum/viewforum.php?f=16" label="Perguntas e Respostas"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=17764&amp;p=95621#p95621"><![CDATA[
+<blockquote><div><cite>rafaelcampos01 escreveu:</cite><br /><blockquote><div><cite>ChaosKnightOFParanau escreveu:</cite>Não existe melhor classe, existem as que são mais simples pra fazer pvp e as que vc precisa ter dedos.<br /><br />Qualquer classe é boa ou ruim dependendo da forma que vc joga, de seus itens e de outros fatores...<br /><br />E por favor né, tem tanta tp top por ai, com pvp alto...<br /><br />Se quer algo fácil pra pvp, faz att, lembrando q set de att é caro e não adianta, se vc quer ser bom, tem q investir tempo, não é só criar e ta bom, não é pq vc da mono em max e vive em verband q vc é bom, toda classe é boa, explore os limites, faça as dg, vai farma solo, pega lv maximo, pra que procurar vantagem?<br />A vantagem que vc precisa é gostar do que vc faz, do char que vc joga é saber usar o que tem e alcançar o proximo passo.<br />Pra mim, melhor classe é qualquer uma que eu escolha, não importa se vc vai começar sem item, tudo é questão de tempo, esforço e fim :v<br /></div></blockquote><br /><br />Minha resposta:<br />Po mano sem maldade, não custa ser direto pra um iniciante?!<br />você filosofou e eu não entendi nada, o cara quer saber que personagem ta roubado, que da HK, e que é simples de jogar.</div></blockquote><br /><br />Olá! Tudo bem?<br /><br />Então, peço que evite reabrir tópicos antigos, especialmente esse de 2014. Não faz sentido responder a um tópico de nove anos atrás, além de ser contra as regras do fórum.<br /><br />Se você quiser ajudar com o fórum ou ajudar outros jogadores, por favor, utilize tópicos mais recentes quando eles aparecerem, ou contribua ativamente em nosso Discord.<br /><br />Agradeço sua compreensão e colaboração!<br /><br /><br />Tópico trancado.<br /><br /><img src="https://cdn.discordapp.com/attachments/467313908320043009/747883287195680910/55j1NsG.png" class="postimage" alt="Imagem" /><p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=52200">MrProtoman</a> — 07 Jun 2023, 10:28</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[rafaelcampos01]]></name></author>
+<updated>2023-06-05T22:38:10-03:00</updated>
+<published>2023-06-05T22:38:10-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=17764&amp;p=95620#p95620</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=17764&amp;p=95620#p95620"/>
+<title type="html"><![CDATA[Perguntas e Respostas • Re: Qual a melhor classe?]]></title>
+
+<category term="Perguntas e Respostas" scheme="https://aika.ongame.net/forum/viewforum.php?f=16" label="Perguntas e Respostas"/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=17764&amp;p=95620#p95620"><![CDATA[
+<blockquote><div><cite>ChaosKnightOFParanau escreveu:</cite><br />Não existe melhor classe, existem as que são mais simples pra fazer pvp e as que vc precisa ter dedos.<br /><br />Qualquer classe é boa ou ruim dependendo da forma que vc joga, de seus itens e de outros fatores...<br /><br />E por favor né, tem tanta tp top por ai, com pvp alto...<br /><br />Se quer algo fácil pra pvp, faz att, lembrando q set de att é caro e não adianta, se vc quer ser bom, tem q investir tempo, não é só criar e ta bom, não é pq vc da mono em max e vive em verband q vc é bom, toda classe é boa, explore os limites, faça as dg, vai farma solo, pega lv maximo, pra que procurar vantagem?<br />A vantagem que vc precisa é gostar do que vc faz, do char que vc joga é saber usar o que tem e alcançar o proximo passo.<br />Pra mim, melhor classe é qualquer uma que eu escolha, não importa se vc vai começar sem item, tudo é questão de tempo, esforço e fim :v<br /></div></blockquote><br /><br />Minha resposta:<br />Po mano sem maldade, não custa ser direto pra um iniciante?!<br />você filosofou e eu não entendi nada, o cara quer saber que personagem ta roubado, que da HK, e que é simples de jogar.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=69601">rafaelcampos01</a> — 05 Jun 2023, 22:38</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[MrProtoman]]></name></author>
+<updated>2023-05-27T01:40:34-03:00</updated>
+<published>2023-05-27T01:40:34-03:00</published>
+<id>https://aika.ongame.net/forum/viewtopic.php?t=32207&amp;p=95619#p95619</id>
+<link href="https://aika.ongame.net/forum/viewtopic.php?t=32207&amp;p=95619#p95619"/>
+<title type="html"><![CDATA[S.O.S. • Re: Bug no templo de ursula]]></title>
+
+<category term="S.O.S." scheme="https://aika.ongame.net/forum/viewforum.php?f=15" label="S.O.S."/>
+<content type="html" xml:base="https://aika.ongame.net/forum/viewtopic.php?t=32207&amp;p=95619#p95619"><![CDATA[
+<blockquote><div><cite>zsoraya escreveu:</cite><br />Olá<br /><br />O bug nas missões do modo Difícil do Templo de Úrsula continuam?<br />Estou tentando fazer com a minha personagem, mas as missões não completam.<br />Se sim, quando irão resolver?<br /></div></blockquote><br /><br />Fala jovem, beleza?<br /><br />Então, infelizmente ainda permanecem, não da pra tirar uma previsão porque são questões que não dependem da gente para ocorrer.<br /><br />Você pode prosseguir fazendo as demais missões do jogo normalmente, as missões que não se completam em Ursula não interferem na sua jornada.<br /><br />Evite reabrir tópicos antigos, caso tenha alguma duvida ou problema pode abrir um tópico novo ou nos contactar via Discord.<br /><br />Qualquer outra duvida ou sugestão é só entrar me contato com a gente.<br /><br />Tópico trancado.<p>Estatísticas: Enviado por <a href="https://aika.ongame.net/forum/memberlist.php?mode=viewprofile&amp;u=52200">MrProtoman</a> — 27 Mai 2023, 01:40</p><hr />
+]]></content>
+</entry>
+</feed>
